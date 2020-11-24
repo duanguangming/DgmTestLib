@@ -1,0 +1,16 @@
+PODS:
+  - DgmTestLib (0.1.0)
+
+DEPENDENCIES:
+  - DgmTestLib (from `../`)
+
+EXTERNAL SOURCES:
+  DgmTestLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DgmTestLib: 8f37ee08c44102efd72a75aa11fd37e147a732cc
+
+PODFILE CHECKSUM: 2e645007c06bd8045912537dfd0290026d768698
+
+COCOAPODS: 1.9.3

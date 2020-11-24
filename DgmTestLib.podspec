@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DgmTestLib'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of DgmTestLib.'
+  s.version          = '1.0'
+  s.summary          = 'A test pods lib of DgmTestLib.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,16 +21,20 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Duane/DgmTestLib'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/duanguangming/DgmTestLib'
+  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.co m/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Duane' => 'gmduan@kaikeba.com' }
-  s.source           = { :git => 'https://github.com/Duane/DgmTestLib.git', :tag => s.version.to_s }
+  s.author           = { 'duanguangming' => 'duanguangming@gmail.com' }
+  s.source           = { :git => 'https://github.com/duanguangming/DgmTestLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
+  if s.respond_to? 'swift_version'
+    s.swift_version = "5.0"
+  end
 
-  s.source_files = 'DgmTestLib/Classes/**/*'
+#  s.source_files = 'HKYunLib/Classes/**/*'
+  s.vendored_frameworks = "DgmTestLib/Frameworks/BSYLib.framework"
   
   # s.resource_bundles = {
   #   'DgmTestLib' => ['DgmTestLib/Assets/*.png']

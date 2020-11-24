@@ -1,0 +1,6 @@
+framework module DgmTestLib {
+  umbrella header "DgmTestLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
