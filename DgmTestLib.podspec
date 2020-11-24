@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DgmTestLib'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'A test pods lib of DgmTestLib.'
 
 # This description is used to generate tags and improve search results.
@@ -42,5 +42,5 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  s.dependency 'AgoraRtcEngine_iOS'
+  # s.dependency 'AgoraRtcEngine_iOS'
 end
