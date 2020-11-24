@@ -33,6 +33,8 @@ TODO: Add long description of the pod here.
     s.swift_version = "5.0"
   end
 
+  s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
+
 #  s.source_files = 'HKYunLib/Classes/**/*'
   s.vendored_frameworks = "DgmTestLib/Frameworks/*.framework"
   
