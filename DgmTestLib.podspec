@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DgmTestLib'
-  s.version          = '1.0'
+  s.version          = '1.0.1'
   s.summary          = 'A test pods lib of DgmTestLib.'
 
 # This description is used to generate tags and improve search results.
@@ -34,7 +34,7 @@ TODO: Add long description of the pod here.
   end
 
 #  s.source_files = 'HKYunLib/Classes/**/*'
-  s.vendored_frameworks = "DgmTestLib/Frameworks/BSYLib.framework"
+  s.vendored_frameworks = "DgmTestLib/Frameworks/*.framework"
   
   # s.resource_bundles = {
   #   'DgmTestLib' => ['DgmTestLib/Assets/*.png']

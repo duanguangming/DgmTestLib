@@ -1,0 +1,11 @@
+framework module BSYUILib {
+  umbrella header "BSYUILib.h"
+
+  export *
+  module * { export * }
+}
+
+module BSYUILib.Swift {
+    header "BSYUILib-Swift.h"
+    requires objc
+}
