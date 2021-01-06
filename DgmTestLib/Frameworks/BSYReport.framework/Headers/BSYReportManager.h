@@ -18,10 +18,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 DEFINE_SINGLETON_FOR_H(BSYReportManager)
 
-@property (nonatomic, assign) uintID tenantId;
-
-@property (nonatomic, copy) NSString *userId;
-
 @property (nonatomic, strong, readonly) NSString *accessToken;
 @property (nonatomic, strong, readonly) NSString *sessionId;
 

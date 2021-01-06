@@ -12,7 +12,14 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface BSYSDKConfig : NSObject
 
+// appId
 @property (class, nonatomic, copy, readonly) NSString *appId;
+
+// 租户Id
+@property (class, nonatomic, assign) uintID tenantId;
+
+// 用户Id
+@property (class, nonatomic, copy) NSString *userId;
 
 /*
  配置appId

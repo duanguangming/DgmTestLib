@@ -11,10 +11,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface BSYVodSdk : NSObject
 
-@property(nonatomic, strong, readonly)NSString *token;
+@property(class, nonatomic, strong, readonly)NSString *token;
 
-+ (BSYVodSdk *)sharedInstance;
-- (void)initToken:(NSString *)token;
++ (void)initToken:(NSString *)token;
 
 @end
 
