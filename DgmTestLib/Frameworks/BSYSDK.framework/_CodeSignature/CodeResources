@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/BSYApiRequest.h</key>
 		<data>
-		NKzXfalKwqMhdo8GwkAbfi7jWb8=
+		4dEg7VTC8RuxtYtvZ0wnciWYAlA=
 		</data>
 		<key>Headers/BSYBaseModel.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/BSYMediaRequest.h</key>
 		<data>
-		pbVMen6QnmDhb6tFmJgeZKhrmGo=
+		pPgLLqrEfR9q19DAUlOmn0mZffA=
 		</data>
 		<key>Headers/BSYMockRequest.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/BSYRequest.h</key>
 		<data>
-		4EsYRmFR9S4rVvsrmrGz7PZkUG4=
+		Y9XuvVLlW/y5E0G1EK2XhOdqmo0=
 		</data>
 		<key>Headers/BSYResponseModel.h</key>
 		<data>
@@ -38,19 +38,23 @@
 		</data>
 		<key>Headers/BSYSDK.h</key>
 		<data>
-		Pxui8cogwmf69bc5+0Hw1PUF0Fg=
+		kK+/3vqW2/7XlajToAyWYZNs794=
 		</data>
 		<key>Headers/BSYSDKConfig.h</key>
 		<data>
-		vrIGr6Ga8GHVh+xWxx3Hsne/6lw=
+		pOpwI/p3/YlEDpBGGoLEwfxOUN0=
+		</data>
+		<key>Headers/BSYSDKConst.h</key>
+		<data>
+		k9l6boQFlGQmffo8NERCLsGIji0=
 		</data>
 		<key>Headers/BSYSDKDataType.h</key>
 		<data>
-		O8xiB5QUL/mqiIMFO+ze3QPV9z4=
+		JHmwgEUxy+xbZzLdAVGB/htG8uQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+P47jdoq/S5Z0ixhkKgtEK5f6mA=
+		zm++bVfVFLk8Wbd7sFQlu43FPjE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -74,11 +78,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NKzXfalKwqMhdo8GwkAbfi7jWb8=
+			4dEg7VTC8RuxtYtvZ0wnciWYAlA=
 			</data>
 			<key>hash2</key>
 			<data>
-			oGDDoo4fRh3mj9rjKk0VHZJrq8L6RigZr6u+ElG7LJk=
+			Jpc1UX/JxDGrac9ca+96vIBoCAo+2j6CoMvLE9Htk5I=
 			</data>
 		</dict>
 		<key>Headers/BSYBaseModel.h</key>
@@ -107,11 +111,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pbVMen6QnmDhb6tFmJgeZKhrmGo=
+			pPgLLqrEfR9q19DAUlOmn0mZffA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q1XMVQYJ1hSwq4larrnavBEq0y2NL2PNCsF9SMh9PzU=
+			DkWSCZaPUEzdfwJ0NUNle738UcCLmCcUTjC0bhOsp+c=
 			</data>
 		</dict>
 		<key>Headers/BSYMockRequest.h</key>
@@ -129,11 +133,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4EsYRmFR9S4rVvsrmrGz7PZkUG4=
+			Y9XuvVLlW/y5E0G1EK2XhOdqmo0=
 			</data>
 			<key>hash2</key>
 			<data>
-			GaAOurr8up486H4EcTXlHWoX8rnC3SR70vLlIfha8nk=
+			8Gh56yxk7XT7RP0vlNapB6SVykfUtEFIVj+HG4ghUgI=
 			</data>
 		</dict>
 		<key>Headers/BSYResponseModel.h</key>
@@ -151,33 +155,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Pxui8cogwmf69bc5+0Hw1PUF0Fg=
+			kK+/3vqW2/7XlajToAyWYZNs794=
 			</data>
 			<key>hash2</key>
 			<data>
-			pZgp+uvCFGWRe+9j/PaOapEnWoG2B7HbJDDKvdeaX/w=
+			ejQ9xDSlKofcNqnt5WdfGV870iJhQkPzzWpPh3UpPIU=
 			</data>
 		</dict>
 		<key>Headers/BSYSDKConfig.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vrIGr6Ga8GHVh+xWxx3Hsne/6lw=
+			pOpwI/p3/YlEDpBGGoLEwfxOUN0=
 			</data>
 			<key>hash2</key>
 			<data>
-			89IhdVV7JxZTQKzBC9wZr7sMFBk+Gg/lFJZjFoke+Dk=
+			tsDAXNmsPY639CPw9T4SmpIy31BHExjh/gE9Pzd/qo4=
+			</data>
+		</dict>
+		<key>Headers/BSYSDKConst.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			k9l6boQFlGQmffo8NERCLsGIji0=
+			</data>
+			<key>hash2</key>
+			<data>
+			cavEj0B7ZKBp68ecbe+UaN+hQrmIJGtrgwZC2UZ2Jek=
 			</data>
 		</dict>
 		<key>Headers/BSYSDKDataType.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			O8xiB5QUL/mqiIMFO+ze3QPV9z4=
+			JHmwgEUxy+xbZzLdAVGB/htG8uQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			MVu8bN7TOt/ZflndWwYw03qUQJXAxS8tC0dQ0KrLxlA=
+			VnZzlYg9UEGtYTL4b3FJcnVcBOGRE6BFATnpt7Et48w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -10,6 +10,10 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
+typedef NS_ENUM(NSInteger, BSYRequestStatus) {
+    BSYRequestStatusOk = 1, // 成功
+};
+
 @class BSYRequest;
 
 typedef void(^BSYRequestBlock)(__kindof BSYRequest *request);
@@ -34,10 +38,10 @@ typedef void(^BSYRequestBlock)(__kindof BSYRequest *request);
 
 
 typedef NS_ENUM(NSInteger, BSYDomainType) {
-    BSYDomainType_Online = 0, // 正式环境
-    BSYDomainType_Pre = 1, // 预览环境
-    BSYDomainType_QA = 2, // 测试环境
-    BSYDomainType_Dev = 3, // 开发环境
+    BSYDomainTypeOnline = 0, // 正式环境
+    BSYDomainTypePre = 1, // 预览环境
+    BSYDomainTypeQA = 2, // 测试环境
+    BSYDomainTypeDev = 3, // 开发环境
 };
 
 @interface BSYDomainConfigure : NSObject

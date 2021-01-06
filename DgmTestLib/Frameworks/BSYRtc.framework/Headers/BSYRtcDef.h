@@ -137,6 +137,7 @@ typedef NS_ENUM(NSInteger, BSYRtcConnectionState) {
 
 @property (nonatomic, copy, nullable) NSString *uid;
 @property (nonatomic, copy, nullable) NSString *channel;
+@property (nonatomic, copy, nullable) NSString *token;
 
 @end
 

@@ -11,7 +11,7 @@
 
 #import <BSYLib/NSString+MD5.h>
 #import <BSYLib/NSData+MD5.h>
-#import <BSYLib/NSString+KBase64.h>
+#import <BSYLib/NSString+Base64.h>
 #import <BSYLib/NSData+Base64.h>
 #import <BSYLib/NSString+AES256.h>
 #import <BSYLib/NSData+AES256.h>

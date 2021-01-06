@@ -17,6 +17,7 @@ FOUNDATION_EXPORT const unsigned char BSYSDKVersionString[];
 #pragma mark - Headers -
 
 #import <BSYSDK/BSYSDKDataType.h>
+#import <BSYSDK/BSYSDKConst.h>
 
 #pragma mark - BSYSDKConfig -
 

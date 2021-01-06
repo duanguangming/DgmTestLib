@@ -6,29 +6,18 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <BSYSDK/BSYSDKDataType.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
 @interface BSYSDKConfig : NSObject
 
-@property (class, nonatomic, copy, readonly) NSString *ak;
-@property (class, nonatomic, copy, readonly) NSString *sk;
-
 @property (class, nonatomic, copy, readonly) NSString *appId;
-@property (class, nonatomic, copy, readonly) NSString *appKey;
 
 /*
- 配置ak和sk
+ 配置appId
  */
-+ (void)configAk:(NSString *)ak sk:(NSString *)sk;
-
-/*
- 配置appId和appKey
- */
-+ (void)configAppId:(NSString *)appId appKey:(NSString *)appKey;
-
-+ (NSString *)createAccessToken;
-+ (NSString *)testAccessToken;
++ (void)configAppId:(NSString *)appId;
 
 @end
 

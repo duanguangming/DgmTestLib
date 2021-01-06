@@ -28,15 +28,19 @@ typedef void (^BSYDownloadStateBlock)(BSYDownloadModel *downloadModel, NSError *
 @property (nonatomic, strong, readonly)NSString *mediaId;
 
 /**
+*  @brief 视频id
+*/
+@property (nonatomic, strong, readonly)NSString *videoId;
+
+/**
  *  @brief 文件名
  */
 @property(nonatomic, strong, readonly)NSString * fileName;
 
-
 /*
  * @brief 文件下载地址
- 
  */
+
 @property(nonatomic, strong, readonly)NSString *downloadUrl;
 
 
@@ -59,7 +63,7 @@ typedef void (^BSYDownloadStateBlock)(BSYDownloadModel *downloadModel, NSError *
 /**
 *  @brief 文件大小
 */
-@property (nonatomic, assign, readonly)int64_t fileSize;
+@property (nonatomic, assign, readonly)UInt64 fileSize;
 
 /**
  *  @brief 下载进度

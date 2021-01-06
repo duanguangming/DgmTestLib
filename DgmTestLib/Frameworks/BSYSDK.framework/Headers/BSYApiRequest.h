@@ -10,8 +10,9 @@
 NS_ASSUME_NONNULL_BEGIN
 
 typedef NS_ENUM(NSInteger, BSYApiRequestStatus) {
-    BSYApiRequestStatus_Ok = 1, // 成功
-    BSYApiRequestStatus_Empty = 0, // 成功，数据为空
+    BSYApiRequestStatusEmpty = 0, // 成功，数据为空
+    BSYApiRequestStatusDeny = -403, // 无权限
+    BSYApiRequestStatusUnLogin = -505, // 未登录
 };
 
 @interface BSYApiRequest : BSYRequest

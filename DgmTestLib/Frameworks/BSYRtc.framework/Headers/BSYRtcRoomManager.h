@@ -14,6 +14,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic, copy, nullable) NSString *channel;
 
+@property (nonatomic, copy, nullable) NSString *token;
+
 @property (nonatomic, copy, nullable) NSString *uid;
 
 @property (nonatomic, copy, nullable) NSString *anchorUid;

@@ -69,7 +69,6 @@
 \
 - (id)initWithCoder:(NSCoder *)coder    \
 {   \
-    NSLog(@"%s",__func__);  \
     Class cls = [self class];   \
     while (cls != [NSObject class]) {   \
         /*判断是自身类还是父类*/    \
@@ -99,7 +98,6 @@
 \
 - (void)encodeWithCoder:(NSCoder *)coder    \
 {   \
-    NSLog(@"%s",__func__);  \
     Class cls = [self class];   \
     while (cls != [NSObject class]) {   \
         /*判断是自身类还是父类*/    \
@@ -133,7 +131,6 @@
 /*如果不实现copyWithZone:方法，则[personObject copy]时会崩溃*/   \
 - (id)copyWithZone:(NSZone *)zone   \
 {   \
-    NSLog(@"%s",__func__);  \
     id copy = [[[self class] allocWithZone:zone] init];    \
     Class cls = [self class];   \
     while (cls != [NSObject class]) {  \

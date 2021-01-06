@@ -67,6 +67,7 @@ typedef void(^BSYBaseRequestBlock)(__kindof BSYBaseRequest *request);
 
 @property (nonatomic, assign) NSTimeInterval timeoutInterval;
 @property (nonatomic, strong) NSDictionary *params;
+@property (nonatomic, assign) BOOL ignoreCache;
 
 - (void)startWithCompletionBlockWithSuccess:(nullable BSYBaseRequestBlock)success failure:(nullable BSYBaseRequestBlock)failure;
 

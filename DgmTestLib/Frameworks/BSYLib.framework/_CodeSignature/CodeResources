@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		9NKozn8htQAfszUs6x2B/guOD4U=
-		</data>
 		<key>DateTools.bundle/am.lproj/DateTools.strings</key>
 		<dict>
 			<key>hash</key>
@@ -388,7 +384,11 @@
 		</dict>
 		<key>Headers/BSYBaseRequest.h</key>
 		<data>
-		M6cZkw2tPSWCUEEvAUEkES2oDik=
+		FOCdfeLDNHbbJRoK3thwSpUwhsU=
+		</data>
+		<key>Headers/BSYBasicUtility.h</key>
+		<data>
+		tiKOyhg4fneCS2FgXyB1yjSPaQM=
 		</data>
 		<key>Headers/BSYCompatibilityMacros.h</key>
 		<data>
@@ -404,11 +404,27 @@
 		</data>
 		<key>Headers/BSYLib.h</key>
 		<data>
-		MC6v9NbSSCd0vO7VVr5JcOmQIxs=
+		O8S21HBiG78J8tT31BjDQ7vueY0=
 		</data>
 		<key>Headers/BSYLibMacro.h</key>
 		<data>
-		hfGO5KnEbb2MyNz3+FJn70w8xns=
+		WtAECO+hMZNi+viK9gWtvWVSCiM=
+		</data>
+		<key>Headers/BSYMJFoundation.h</key>
+		<data>
+		1SseysJZsx3kVNxkQLwD5HmE18s=
+		</data>
+		<key>Headers/BSYMJProperty.h</key>
+		<data>
+		3RJUYI6+UgXIHRCy0rdxyJgTLi4=
+		</data>
+		<key>Headers/BSYMJPropertyKey.h</key>
+		<data>
+		U2bsYyDMzLqMuY1mHbEncvN2ncA=
+		</data>
+		<key>Headers/BSYMJPropertyType.h</key>
+		<data>
+		fEgw7csgTcHyuQiXWh1+bR7AblI=
 		</data>
 		<key>Headers/BSYNetworkReachabilityManager.h</key>
 		<data>
@@ -420,7 +436,7 @@
 		</data>
 		<key>Headers/BSYObserverKit.h</key>
 		<data>
-		Zbgm9hkrG/r5e8zlTAwW5jQSFLw=
+		3c241Qccj9Q8N7p+dZmAYb5Aojg=
 		</data>
 		<key>Headers/BSYProxy.h</key>
 		<data>
@@ -432,7 +448,7 @@
 		</data>
 		<key>Headers/BSYSerializeKit.h</key>
 		<data>
-		mhvFFF9i39d2qbqg0KSEDvD3Y+0=
+		IFIxCRVOOCFCJ6ymJKqNxqHYkKg=
 		</data>
 		<key>Headers/BSYSingletonKit.h</key>
 		<data>
@@ -462,6 +478,14 @@
 		<data>
 		qWB8CaRHVPht8GaqCxgkNpDK8V0=
 		</data>
+		<key>Headers/MJExtension.h</key>
+		<data>
+		Wr1qc+0/2B9As4sxVYdqVZVYcPM=
+		</data>
+		<key>Headers/MJExtensionConst.h</key>
+		<data>
+		uW+iH9u23Qeg0TIT/vOijf7+xOw=
+		</data>
 		<key>Headers/NSArray+Json.h</key>
 		<data>
 		0cuDnb42lZqRN7A70WxAVpNmiyM=
@@ -478,6 +502,10 @@
 		<data>
 		g0hMorzvc+le1+xQLym/T3pomHw=
 		</data>
+		<key>Headers/NSDate+DateTools.h</key>
+		<data>
+		G6S0oc7CQKrAvzo9IdYx1PKs4fs=
+		</data>
 		<key>Headers/NSDictionary+Json.h</key>
 		<data>
 		do3SPesySsCESypxzKEff53agjM=
@@ -490,6 +518,22 @@
 		<data>
 		rkPflZx7M2+qveLW1Hdasyd9LCA=
 		</data>
+		<key>Headers/NSObject+MJClass.h</key>
+		<data>
+		VJ1xZ+vj6Gu8Wel1CQb9ac9AexY=
+		</data>
+		<key>Headers/NSObject+MJCoding.h</key>
+		<data>
+		pHOoyoC04DUNJ7wdN59JPbxZkk0=
+		</data>
+		<key>Headers/NSObject+MJKeyValue.h</key>
+		<data>
+		XrOZlnBBfN5yP/GuKTASVP9TTYo=
+		</data>
+		<key>Headers/NSObject+MJProperty.h</key>
+		<data>
+		wt6Oozw0JQ/FkjOkD/HEWXmEWRg=
+		</data>
 		<key>Headers/NSObject+Utility.h</key>
 		<data>
 		Frv8UWViw3TZP/sjeX6oRoX8B6k=
@@ -498,7 +542,7 @@
 		<data>
 		xJjmqeMqsiPOOuJweCZSJ4L6wwI=
 		</data>
-		<key>Headers/NSString+KBase64.h</key>
+		<key>Headers/NSString+Base64.h</key>
 		<data>
 		TinU5qV2XjYFrI4wpqBwZxKTq+c=
 		</data>
@@ -506,9 +550,13 @@
 		<data>
 		T92FzSNU0HHvoV9cuOdp2zF+mVg=
 		</data>
+		<key>Headers/NSString+MJExtension.h</key>
+		<data>
+		Fq1Nc4GVpxR1v4KipDwmCNb5Upw=
+		</data>
 		<key>Headers/NSString+format.h</key>
 		<data>
-		PNuxwFLr//UNXw5onAnxBcd1n9Q=
+		9VWmDGFSOGhC2N3lz+6jmA46R6c=
 		</data>
 		<key>Headers/UIImage+util.h</key>
 		<data>
@@ -516,11 +564,11 @@
 		</data>
 		<key>Headers/encrypt.h</key>
 		<data>
-		CwXNrCqWjEnXrkhnBnFVkDUS51Y=
+		FfXah8yaNbC9svvJ6DFFB0wQWyo=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		yfb5yMS57CakR/ae/aAPp0IzTdA=
+		29QKibkA3X+vPTaiLIRmA0Mkagc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1079,11 +1127,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			M6cZkw2tPSWCUEEvAUEkES2oDik=
+			FOCdfeLDNHbbJRoK3thwSpUwhsU=
 			</data>
 			<key>hash2</key>
 			<data>
-			VlhX8v+IN85BR/wrSP87axLjZxtrkkaKO9oxGQoaoqY=
+			WExToP1nm78HTZnd6l5wbAkqw49Yqt6Zlvecx9rQ/uU=
+			</data>
+		</dict>
+		<key>Headers/BSYBasicUtility.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tiKOyhg4fneCS2FgXyB1yjSPaQM=
+			</data>
+			<key>hash2</key>
+			<data>
+			NhVPb0X/tNn8mTcMCsrN6vStjsKIg/8/jDDiJGdHq8I=
 			</data>
 		</dict>
 		<key>Headers/BSYCompatibilityMacros.h</key>
@@ -1123,22 +1182,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MC6v9NbSSCd0vO7VVr5JcOmQIxs=
+			O8S21HBiG78J8tT31BjDQ7vueY0=
 			</data>
 			<key>hash2</key>
 			<data>
-			LG6QqECSYa/baVbPaYrkVBcxRDiPAzJvu7Lh0DP5rfg=
+			YMJGzQk2QvgvSa4BY6O75Q7XFwRmuRaENa8q26EIHhA=
 			</data>
 		</dict>
 		<key>Headers/BSYLibMacro.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hfGO5KnEbb2MyNz3+FJn70w8xns=
+			WtAECO+hMZNi+viK9gWtvWVSCiM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ydfg2E2gv+Zrw6Cy6LglYpjhncZ2ci1t4r2V1Oe7EWE=
+			+J5Dch7kzBVDYgxlci/Ebx8g/wcPaHfFZpPEJWGBMFA=
+			</data>
+		</dict>
+		<key>Headers/BSYMJFoundation.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1SseysJZsx3kVNxkQLwD5HmE18s=
+			</data>
+			<key>hash2</key>
+			<data>
+			6qkjKntdiOClt+c+CxED393j6aG4MbXpQCK3uoqv9iE=
+			</data>
+		</dict>
+		<key>Headers/BSYMJProperty.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3RJUYI6+UgXIHRCy0rdxyJgTLi4=
+			</data>
+			<key>hash2</key>
+			<data>
+			t3lF/CmpCcKrqEyqHUmnnEcyMTiKT9zPwIuNzshHL5w=
+			</data>
+		</dict>
+		<key>Headers/BSYMJPropertyKey.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U2bsYyDMzLqMuY1mHbEncvN2ncA=
+			</data>
+			<key>hash2</key>
+			<data>
+			Us0Cx97zW9yTPBKpU00bjQr2lk9crCXMxZTxqiLrWlo=
+			</data>
+		</dict>
+		<key>Headers/BSYMJPropertyType.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fEgw7csgTcHyuQiXWh1+bR7AblI=
+			</data>
+			<key>hash2</key>
+			<data>
+			0jNRLENsjgzWnelSnsBfJ9JbCGeNfFAqGT3S2ND2wnY=
 			</data>
 		</dict>
 		<key>Headers/BSYNetworkReachabilityManager.h</key>
@@ -1167,11 +1270,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Zbgm9hkrG/r5e8zlTAwW5jQSFLw=
+			3c241Qccj9Q8N7p+dZmAYb5Aojg=
 			</data>
 			<key>hash2</key>
 			<data>
-			zqidljgREe/cgsXgztmm8ZAXz9WzSRCpNxquekUhbuE=
+			JoJ4BV/aoFNLUdTcDPpMNRUY2zyOtW/2R0lyh+dEDT0=
 			</data>
 		</dict>
 		<key>Headers/BSYProxy.h</key>
@@ -1200,11 +1303,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mhvFFF9i39d2qbqg0KSEDvD3Y+0=
+			IFIxCRVOOCFCJ6ymJKqNxqHYkKg=
 			</data>
 			<key>hash2</key>
 			<data>
-			7rt1fpCs2CuxYaCQgB41dVrkMVsfZzcG8ccDxhhTvdo=
+			YflXcmGwxlbcVuNa4Va3/o3s9eQDWH4sFHLvkE/FO6M=
 			</data>
 		</dict>
 		<key>Headers/BSYSingletonKit.h</key>
@@ -1284,6 +1387,28 @@
 			n5WYNCx1Baou9+4chazr38mWeaC8BRwXZaVft5tJ/Tk=
 			</data>
 		</dict>
+		<key>Headers/MJExtension.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Wr1qc+0/2B9As4sxVYdqVZVYcPM=
+			</data>
+			<key>hash2</key>
+			<data>
+			KwOFV0wXPnxhkQmGyEFM1TgMLwuhNLoWP46OqwEEGQI=
+			</data>
+		</dict>
+		<key>Headers/MJExtensionConst.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uW+iH9u23Qeg0TIT/vOijf7+xOw=
+			</data>
+			<key>hash2</key>
+			<data>
+			IkN6XiSNTx2njEvt2O0F9OqWp7lW5PF9WE5EEjpqn80=
+			</data>
+		</dict>
 		<key>Headers/NSArray+Json.h</key>
 		<dict>
 			<key>hash</key>
@@ -1328,6 +1453,17 @@
 			J/zeSgI/+SZv/rsrRuLKx3aT1q6lVf6ZUcC3/V39UzY=
 			</data>
 		</dict>
+		<key>Headers/NSDate+DateTools.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			G6S0oc7CQKrAvzo9IdYx1PKs4fs=
+			</data>
+			<key>hash2</key>
+			<data>
+			U2Mo4PWBn9IZCiLKmxI5Yn8sFoWcR2hssiZmLvyjTXs=
+			</data>
+		</dict>
 		<key>Headers/NSDictionary+Json.h</key>
 		<dict>
 			<key>hash</key>
@@ -1361,6 +1497,50 @@
 			FhKAPsk4QhrKAX+1XFvqOOtOBPVXT1V0IAyxwACBaTk=
 			</data>
 		</dict>
+		<key>Headers/NSObject+MJClass.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VJ1xZ+vj6Gu8Wel1CQb9ac9AexY=
+			</data>
+			<key>hash2</key>
+			<data>
+			GPVSGzCEt7YeiOV3eW1fNi5+5HY+SRQ+KU4dKCWS6bs=
+			</data>
+		</dict>
+		<key>Headers/NSObject+MJCoding.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pHOoyoC04DUNJ7wdN59JPbxZkk0=
+			</data>
+			<key>hash2</key>
+			<data>
+			rEOxoYV8n6qKMACNPgipVstORWCr0LTh9k7i+Y7gQlQ=
+			</data>
+		</dict>
+		<key>Headers/NSObject+MJKeyValue.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XrOZlnBBfN5yP/GuKTASVP9TTYo=
+			</data>
+			<key>hash2</key>
+			<data>
+			Efo0cwLSfPub/M1FACzC7Md/6uI4iU1ItkDdSGKdwCI=
+			</data>
+		</dict>
+		<key>Headers/NSObject+MJProperty.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wt6Oozw0JQ/FkjOkD/HEWXmEWRg=
+			</data>
+			<key>hash2</key>
+			<data>
+			NWwJULvLNDwXuBFcNWPdJVBldH35v7L8d5BpdpRraPY=
+			</data>
+		</dict>
 		<key>Headers/NSObject+Utility.h</key>
 		<dict>
 			<key>hash</key>
@@ -1383,7 +1563,7 @@
 			n9dFkHAKZnrpkYBwXpWUk0qWBzI0/utT5ROuCMTAtao=
 			</data>
 		</dict>
-		<key>Headers/NSString+KBase64.h</key>
+		<key>Headers/NSString+Base64.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1405,15 +1585,26 @@
 			ED0DLB9gzYkp6htOoy9DaE+isH6C6JkoPaf7N7loqLg=
 			</data>
 		</dict>
+		<key>Headers/NSString+MJExtension.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Fq1Nc4GVpxR1v4KipDwmCNb5Upw=
+			</data>
+			<key>hash2</key>
+			<data>
+			VsTGndrnhr/Rzt4F/SpicIgXV+WjaqQWGfsBw3SVCSc=
+			</data>
+		</dict>
 		<key>Headers/NSString+format.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PNuxwFLr//UNXw5onAnxBcd1n9Q=
+			9VWmDGFSOGhC2N3lz+6jmA46R6c=
 			</data>
 			<key>hash2</key>
 			<data>
-			8FhV0r3IEEfCxOdVapR/+5ibF9j/ngiWD5rH45WEyaI=
+			3XYJubdCHnmx4yXD7pBktVKWeshnfMhVeoRPjb+5Vog=
 			</data>
 		</dict>
 		<key>Headers/UIImage+util.h</key>
@@ -1431,11 +1622,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CwXNrCqWjEnXrkhnBnFVkDUS51Y=
+			FfXah8yaNbC9svvJ6DFFB0wQWyo=
 			</data>
 			<key>hash2</key>
 			<data>
-			j1GrG56D79lSYCHfn1OSJRNL94DzJ04VuZWoMQxma1g=
+			8DEdHYthpE8FTSoZfdCcnch+1ZSwN76pRCY4Be4SGRk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

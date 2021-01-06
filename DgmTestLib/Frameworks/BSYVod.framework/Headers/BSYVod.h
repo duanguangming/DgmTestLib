@@ -16,6 +16,7 @@ FOUNDATION_EXPORT const unsigned char BSYVodVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <BSYVod/PublicHeader.h>
 
 #import <BSYVod/BSYDownloadDefine.h>
+#import <BSYVod/BSYVodSdk.h>
 
 #import <BSYVod/BSYDownloadModel.h>
 #import <BSYVod/BSYDownloadSessionManager.h>

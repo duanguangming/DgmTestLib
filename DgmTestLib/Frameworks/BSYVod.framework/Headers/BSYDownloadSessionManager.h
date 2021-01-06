@@ -26,7 +26,7 @@ NS_ASSUME_NONNULL_BEGIN
  @param state 下载状态
  @param error 错误信息 如果 state为BSYDownloadStateFailed 显示error信息
  */
--(void)downloadModel:(BSYDownloadModel *)downloadModel WithState:(BSYDownloadState)state error:(NSError *)error;
+-(void)downloadModel:(BSYDownloadModel *)downloadModel withState:(BSYDownloadState)state error:(NSError * __nullable)error;
 
 
 @end
@@ -68,6 +68,13 @@ NS_ASSUME_NONNULL_BEGIN
  * @result BSYDownloadSessionManager对象
  */
 + (instancetype)sharedInstance;
+
+/*!
+ * @method
+ * @abstract 启动下载器
+ * @param userId  用户id
+ */
+- (void)setupWithUserId:(NSString *)userId withBaseStorePath:(NSString *)path;
 
 /*!
  * @method
@@ -133,7 +140,7 @@ NS_ASSUME_NONNULL_BEGIN
  * @param resolution 媒体品质，非空 resolution:lud、lhd、lsd  分辨率：lud：超清，lhd：高清，lsd：标清
  * @result 创建成功返回BSYDownloadModel对象，如果失败，返回nil
  */
-+(BSYDownloadModel *)createVideoDownloadModel:(BSYVodVideoModel *)videoModel WithResolution:(NSString *)resolution;
++(BSYDownloadModel *)createVideoDownloadModel:(BSYVodVideoModel *)videoModel withResolution:(NSString *)resolution;
 
 /*!
  * @method
@@ -152,7 +159,7 @@ NS_ASSUME_NONNULL_BEGIN
  * @param resolution 媒体品质，非空 resolution:lud、lhd、lsd  分辨率：lud：超清，lhd：高清，lsd：标清
  * @result BSYDownloadModel对象
  */
--(BSYDownloadModel *)getDownLoadVideoModelWithMediaId:(NSString *)mediaId WithResolution:(NSString *)resolution;
+-(BSYDownloadModel *)getDownLoadVideoModelWithMediaId:(NSString *)mediaId withResolution:(NSString *)resolution;
 
 /*!
  * @method
@@ -162,7 +169,7 @@ NS_ASSUME_NONNULL_BEGIN
  * @param resolution 媒体品质，非空 resolution:lud、lhd、lsd  分辨率：lud：超清，lhd：高清，lsd：标清
  * @result 查询结果
  */
--(BOOL)checkLocalResourceWithMediaId:(NSString *)mediaId WithResolution:(NSString *)resolution;
+-(BOOL)checkLocalResourceWithMediaId:(NSString *)mediaId withResolution:(NSString *)resolution;
 
 
 @end

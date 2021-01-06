@@ -6,15 +6,15 @@
 	<dict>
 		<key>Headers/BSYDownloadDefine.h</key>
 		<data>
-		3v0Ujc1Uvq54MMT3QJV7Kr+QrkE=
+		LPytRr391KEzHS58uwG6o6Z1AfY=
 		</data>
 		<key>Headers/BSYDownloadModel.h</key>
 		<data>
-		YNCj70ejDt/qOCn51ErkwiLdF0g=
+		WC5Q67PG1IwNs7obx0JCQNvcHVg=
 		</data>
 		<key>Headers/BSYDownloadSessionManager.h</key>
 		<data>
-		OcCfSkJvyQHdr+pfxsHXOzxNg0U=
+		BJNssuh7ybI8udv/uclYloHtACQ=
 		</data>
 		<key>Headers/BSYPlayInfo.h</key>
 		<data>
@@ -26,15 +26,19 @@
 		</data>
 		<key>Headers/BSYVod.h</key>
 		<data>
-		YE9bHLff00tGm/MKjeR8aaDWr6o=
+		Oeqcgyc+xJfEWTxmlQvF2g0duyU=
+		</data>
+		<key>Headers/BSYVodSdk.h</key>
+		<data>
+		Nv6kVdk7LsLLM1PhDcw3gUGr2Uo=
 		</data>
 		<key>Headers/BSYVodVideoModel.h</key>
 		<data>
-		5GMchP5zQ9Xdd+PjLxNhTc1XHRU=
+		ek6zxMwqH9IbZ7hAmF/MAL01fCM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SRZXZ9DDo21TZ1hXA6s21wmJ2Pc=
+		PK6v3JwVM6t2wavvLhuyTQ26w2s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,33 +51,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3v0Ujc1Uvq54MMT3QJV7Kr+QrkE=
+			LPytRr391KEzHS58uwG6o6Z1AfY=
 			</data>
 			<key>hash2</key>
 			<data>
-			l31g5jexM0qMN5k76rmpee7Mh+5XBDDuJVdGYOFg2Vk=
+			lyp54FjyNnOufirGrWndm3sKd7laBvnivUh3Io7A4KY=
 			</data>
 		</dict>
 		<key>Headers/BSYDownloadModel.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YNCj70ejDt/qOCn51ErkwiLdF0g=
+			WC5Q67PG1IwNs7obx0JCQNvcHVg=
 			</data>
 			<key>hash2</key>
 			<data>
-			jyOXy2dB9RqCEv5MlY3JQRdwPsOIsY/u4NM0TGyzx4I=
+			aSgnfNmxtTyG6B7yGDwwNOp0l1ZHjR2g+EC5Tv0Vf/I=
 			</data>
 		</dict>
 		<key>Headers/BSYDownloadSessionManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OcCfSkJvyQHdr+pfxsHXOzxNg0U=
+			BJNssuh7ybI8udv/uclYloHtACQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			UIjYkia1dzhvZF/GYgk0692SeKcpT1q6Jdqly0H1+R8=
+			Mjmiq68lc2aR8WiGGbbV4XEav8jErLBpmWfeLUW4IBs=
 			</data>
 		</dict>
 		<key>Headers/BSYPlayInfo.h</key>
@@ -102,22 +106,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YE9bHLff00tGm/MKjeR8aaDWr6o=
+			Oeqcgyc+xJfEWTxmlQvF2g0duyU=
 			</data>
 			<key>hash2</key>
 			<data>
-			/6weOtIIJKGHLHsxZ9Dbejeo/Aw2x4eb+ZMGvefS6qg=
+			TemcO0kE01d/4arBuG3tIQU5t77oyPw7qVJ4u3JoTeU=
+			</data>
+		</dict>
+		<key>Headers/BSYVodSdk.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Nv6kVdk7LsLLM1PhDcw3gUGr2Uo=
+			</data>
+			<key>hash2</key>
+			<data>
+			f/WWJDGQcuVp+iFeMZSS0rwxrXf/GLrLWJETtaGFXoA=
 			</data>
 		</dict>
 		<key>Headers/BSYVodVideoModel.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5GMchP5zQ9Xdd+PjLxNhTc1XHRU=
+			ek6zxMwqH9IbZ7hAmF/MAL01fCM=
 			</data>
 			<key>hash2</key>
 			<data>
-			2IzRunze+75TGqUy60DLewS/L+x5xJdD4rxHuwl5muw=
+			KwMZwWoWkoKY7+iGA6A1f0OvwZWO464lKYIlc3//zX4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

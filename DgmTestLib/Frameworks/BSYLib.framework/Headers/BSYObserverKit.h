@@ -20,7 +20,7 @@
 #define DEFINE_OBSERVER_FOR_M(protocolName) \
 - (NSHashTable *)observers { \
 if (_observers == nil) { \
-_observers = [NSHashTable<id<protocolName>> new]; \
+_observers = [NSHashTable<id<protocolName>> hashTableWithOptions:NSHashTableWeakMemory]; \
 } \
 return _observers; \
 } \

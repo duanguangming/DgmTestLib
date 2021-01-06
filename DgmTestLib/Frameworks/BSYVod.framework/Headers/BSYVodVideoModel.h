@@ -32,6 +32,19 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property(nonatomic, strong, readonly)NSString *playURL;
 
+/**
+ *  @brief 文件大小（字节）
+ */
+
+@property (nonatomic, assign, readonly)UInt64 size;
+
+/**
+ *  @brief 时长(秒)
+ */
+@property (nonatomic, assign, readonly)CGFloat duration;
+
+
+
 @end
 
 @interface BSYVodVideoImageModel : BSYMediaModel

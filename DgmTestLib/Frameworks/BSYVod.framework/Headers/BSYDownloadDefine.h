@@ -24,7 +24,6 @@ typedef NS_ENUM(NSUInteger, BSYDownloadState) {
 // 下载文件类型
 typedef NS_ENUM(NSUInteger, BSYDownloadType) {
     BSYDownloadTypeVideo,        //视频
-
 };
 
 

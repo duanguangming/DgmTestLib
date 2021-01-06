@@ -10,27 +10,15 @@
 		</data>
 		<key>Headers/BSYRtcDef.h</key>
 		<data>
-		EN5/F+FOKifuIEeCPhfIGFHN3eo=
-		</data>
-		<key>Headers/BSYRtcManager.h</key>
-		<data>
-		GQa3d701QJJtzrO+PGF3OqRudZ0=
-		</data>
-		<key>Headers/BSYRtcManagerDelegate.h</key>
-		<data>
-		qi3hKNeUYPXf0kxKML41IoapQpg=
-		</data>
-		<key>Headers/BSYRtcManagerProtocol.h</key>
-		<data>
-		z/npV/FIM7XuQ3k/yz5OOB5vvoA=
+		nsjcmvPlLF2euIxeltWDLTIxx/s=
 		</data>
 		<key>Headers/BSYRtcRoomManager.h</key>
 		<data>
-		2tDstwXmJWjJ8iVOFjaQt2pVXFs=
+		4AYC6xl92azKOVofFWTljjRLZN4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		wYquiqMbp8G4r/G39d6vSTZX2Ho=
+		S0jGlWCHSN/FCslFfof+2NLoA10=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,55 +42,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EN5/F+FOKifuIEeCPhfIGFHN3eo=
+			nsjcmvPlLF2euIxeltWDLTIxx/s=
 			</data>
 			<key>hash2</key>
 			<data>
-			o4dfoZ3vQQZxI9NrGhj72sNjYbYeuV4Al2O4xJY84MY=
-			</data>
-		</dict>
-		<key>Headers/BSYRtcManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GQa3d701QJJtzrO+PGF3OqRudZ0=
-			</data>
-			<key>hash2</key>
-			<data>
-			lb+0l8ouWm6V5Zg1sFEi1O9KbOUoEcYRIdPXGpfdt98=
-			</data>
-		</dict>
-		<key>Headers/BSYRtcManagerDelegate.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qi3hKNeUYPXf0kxKML41IoapQpg=
-			</data>
-			<key>hash2</key>
-			<data>
-			QZSccEwv4xb7Cx+CEgMOmv56wOgTXjbQvl+Hwzm/YTA=
-			</data>
-		</dict>
-		<key>Headers/BSYRtcManagerProtocol.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			z/npV/FIM7XuQ3k/yz5OOB5vvoA=
-			</data>
-			<key>hash2</key>
-			<data>
-			d4Fxw6/x3tWH/EKSy/4SvUZZXULI3zWpyQiipsZG/Xk=
+			R++Ma9KOCuH+AYHtNh1IPM3rrbwQgInfob2CN50W/n4=
 			</data>
 		</dict>
 		<key>Headers/BSYRtcRoomManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2tDstwXmJWjJ8iVOFjaQt2pVXFs=
+			4AYC6xl92azKOVofFWTljjRLZN4=
 			</data>
 			<key>hash2</key>
 			<data>
-			8JboceUy9VA7/BYKFr5z3La3Sr+ED0krWsvozwY/He8=
+			DqfDQJXpnYEo01ILmV5VodqK7Jo3wurGzdwMk3u9JI0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

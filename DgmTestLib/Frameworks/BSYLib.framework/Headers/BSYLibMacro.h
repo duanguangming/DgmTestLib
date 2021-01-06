@@ -12,12 +12,21 @@
 
 #define StandardUserDefaults [NSUserDefaults standardUserDefaults]
 
-#define NSLogFunction() NSLog(@"Method called: %s", __FUNCTION__)
+#define NSLogFunction() NSLog(@"Method called: %s", __func__)
 #define NSLogCGRect(r) NSLog(@"CGRect x:%f y:%f w:%f h:%f", r.origin.x, r.origin.y, r.size.width, r.size.height)
 
 #define MINUTE (60)
 #define HOUR (60*MINUTE)
 #define DAY (24*HOUR)
+
+//正则表达式
+#define sEmailRegexString           (@"\\b([a-zA-Z0-9%_.+\\-]+)@([a-zA-Z0-9.\\-]+?[\\.[a-zA-Z]{2,6}]+)\\b")
+#define sPhoneNumberRegexString     (@"^1\\d{10}$")
+#define sPrePhoneNumberRegexString  (@"^99965432\\d{3}$")
+#define sVerifyCodeRegexString4     (@"[0-9]{4}")
+#define sVerifyCodeRegexString6     (@"[0-9]{6}")
+
+#define sCommonDateFormatString     (@"yyyy-MM-dd HH:mm:ss")
 
 // 资源文件
 #define Framework_Bundle [NSBundle bundleForClass:self.class]
@@ -41,8 +50,15 @@ Stuff; \
 _Pragma("clang diagnostic pop") \
 } while (0)
 
+#define BSYDeprecated(DESCRIPTION) __attribute__((deprecated(DESCRIPTION)))
 
-#define weakify(object) autoreleasepool   {} __weak  typeof(object) weak##object = object;
-#define strongify(object) autoreleasepool {} __strong  typeof(weak##object) object = weak##object;
+#define weakObject(object) autoreleasepool   {} __weak  typeof(object) weak##object = object;
+#define strongObject(object) autoreleasepool {} __strong  typeof(weak##object) object = weak##object;
+
+#if (DEBUG)
+#define BSYLog(...) NSLog(@"BSYLog==>:%s\n %@\n\n", __func__, [NSString stringWithFormat:__VA_ARGS__])
+#else
+#define BSYLog(...) {}
+#endif
 
 #endif /* BSYLibMacro_h */
