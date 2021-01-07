@@ -480,7 +480,7 @@
 		</data>
 		<key>Headers/MJExtension.h</key>
 		<data>
-		Wr1qc+0/2B9As4sxVYdqVZVYcPM=
+		D63z0c5mSeh0G9fcIG2c+gM5H/o=
 		</data>
 		<key>Headers/MJExtensionConst.h</key>
 		<data>
@@ -518,21 +518,21 @@
 		<data>
 		rkPflZx7M2+qveLW1Hdasyd9LCA=
 		</data>
-		<key>Headers/NSObject+MJClass.h</key>
+		<key>Headers/NSObject+BSYMJClass.h</key>
 		<data>
-		VJ1xZ+vj6Gu8Wel1CQb9ac9AexY=
+		LTbLCVYZlldwzZqy0TXLYdIcZw4=
 		</data>
-		<key>Headers/NSObject+MJCoding.h</key>
+		<key>Headers/NSObject+BSYMJCoding.h</key>
 		<data>
-		pHOoyoC04DUNJ7wdN59JPbxZkk0=
+		j03DdZWhfXnGBFwMUdCTp216SwM=
 		</data>
-		<key>Headers/NSObject+MJKeyValue.h</key>
+		<key>Headers/NSObject+BSYMJKeyValue.h</key>
 		<data>
-		XrOZlnBBfN5yP/GuKTASVP9TTYo=
+		eU2GadjnFylL0nVRahQRGSIMY1o=
 		</data>
-		<key>Headers/NSObject+MJProperty.h</key>
+		<key>Headers/NSObject+BSYMJProperty.h</key>
 		<data>
-		wt6Oozw0JQ/FkjOkD/HEWXmEWRg=
+		9wUCppdhYN0eM4OUXZIRgHdT+Qo=
 		</data>
 		<key>Headers/NSObject+Utility.h</key>
 		<data>
@@ -542,6 +542,10 @@
 		<data>
 		xJjmqeMqsiPOOuJweCZSJ4L6wwI=
 		</data>
+		<key>Headers/NSString+BSYMJExtension.h</key>
+		<data>
+		dduuLACsfUx84WyZ2sj+rm2Ed8Y=
+		</data>
 		<key>Headers/NSString+Base64.h</key>
 		<data>
 		TinU5qV2XjYFrI4wpqBwZxKTq+c=
@@ -549,10 +553,6 @@
 		<key>Headers/NSString+MD5.h</key>
 		<data>
 		T92FzSNU0HHvoV9cuOdp2zF+mVg=
-		</data>
-		<key>Headers/NSString+MJExtension.h</key>
-		<data>
-		Fq1Nc4GVpxR1v4KipDwmCNb5Upw=
 		</data>
 		<key>Headers/NSString+format.h</key>
 		<data>
@@ -1391,11 +1391,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Wr1qc+0/2B9As4sxVYdqVZVYcPM=
+			D63z0c5mSeh0G9fcIG2c+gM5H/o=
 			</data>
 			<key>hash2</key>
 			<data>
-			KwOFV0wXPnxhkQmGyEFM1TgMLwuhNLoWP46OqwEEGQI=
+			DuPUa9cAalREB9tiRVbe/ZVFxoMbfkA/1yS31Yg9zNc=
 			</data>
 		</dict>
 		<key>Headers/MJExtensionConst.h</key>
@@ -1497,48 +1497,48 @@
 			FhKAPsk4QhrKAX+1XFvqOOtOBPVXT1V0IAyxwACBaTk=
 			</data>
 		</dict>
-		<key>Headers/NSObject+MJClass.h</key>
+		<key>Headers/NSObject+BSYMJClass.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VJ1xZ+vj6Gu8Wel1CQb9ac9AexY=
+			LTbLCVYZlldwzZqy0TXLYdIcZw4=
 			</data>
 			<key>hash2</key>
 			<data>
-			GPVSGzCEt7YeiOV3eW1fNi5+5HY+SRQ+KU4dKCWS6bs=
+			1eKA1JcFx8epfJ7XAz/kpQfzO31szj4OXhQxA5HuPq0=
 			</data>
 		</dict>
-		<key>Headers/NSObject+MJCoding.h</key>
+		<key>Headers/NSObject+BSYMJCoding.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pHOoyoC04DUNJ7wdN59JPbxZkk0=
+			j03DdZWhfXnGBFwMUdCTp216SwM=
 			</data>
 			<key>hash2</key>
 			<data>
-			rEOxoYV8n6qKMACNPgipVstORWCr0LTh9k7i+Y7gQlQ=
+			+aIDSIf4O+OyNNAb4YZoCUjcOW6bgGdJzjNRV08O1EQ=
 			</data>
 		</dict>
-		<key>Headers/NSObject+MJKeyValue.h</key>
+		<key>Headers/NSObject+BSYMJKeyValue.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XrOZlnBBfN5yP/GuKTASVP9TTYo=
+			eU2GadjnFylL0nVRahQRGSIMY1o=
 			</data>
 			<key>hash2</key>
 			<data>
-			Efo0cwLSfPub/M1FACzC7Md/6uI4iU1ItkDdSGKdwCI=
+			m4qad7B3wvYlFcnyFXTZrphJyPVKYHiOx8UbJz8xeaw=
 			</data>
 		</dict>
-		<key>Headers/NSObject+MJProperty.h</key>
+		<key>Headers/NSObject+BSYMJProperty.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wt6Oozw0JQ/FkjOkD/HEWXmEWRg=
+			9wUCppdhYN0eM4OUXZIRgHdT+Qo=
 			</data>
 			<key>hash2</key>
 			<data>
-			NWwJULvLNDwXuBFcNWPdJVBldH35v7L8d5BpdpRraPY=
+			3tl9gQNMzmnZJwUAOhBco3MdRm9d/Lxx97PIqmZS0AI=
 			</data>
 		</dict>
 		<key>Headers/NSObject+Utility.h</key>
@@ -1563,6 +1563,17 @@
 			n9dFkHAKZnrpkYBwXpWUk0qWBzI0/utT5ROuCMTAtao=
 			</data>
 		</dict>
+		<key>Headers/NSString+BSYMJExtension.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dduuLACsfUx84WyZ2sj+rm2Ed8Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			NfgwfgB9CsRKcvmAJW1nmms0a+gTEdPZxdj2OFP1zUM=
+			</data>
+		</dict>
 		<key>Headers/NSString+Base64.h</key>
 		<dict>
 			<key>hash</key>
@@ -1583,17 +1594,6 @@
 			<key>hash2</key>
 			<data>
 			ED0DLB9gzYkp6htOoy9DaE+isH6C6JkoPaf7N7loqLg=
-			</data>
-		</dict>
-		<key>Headers/NSString+MJExtension.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Fq1Nc4GVpxR1v4KipDwmCNb5Upw=
-			</data>
-			<key>hash2</key>
-			<data>
-			VsTGndrnhr/Rzt4F/SpicIgXV+WjaqQWGfsBw3SVCSc=
 			</data>
 		</dict>
 		<key>Headers/NSString+format.h</key>

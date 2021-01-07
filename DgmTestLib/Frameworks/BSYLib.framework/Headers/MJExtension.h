@@ -14,10 +14,10 @@ FOUNDATION_EXPORT const unsigned char MJExtensionVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <MJExtension/PublicHeader.h>
 
-#import <BSYLib/NSObject+MJCoding.h>
-#import <BSYLib/NSObject+MJProperty.h>
-#import <BSYLib/NSObject+MJClass.h>
-#import <BSYLib/NSObject+MJKeyValue.h>
-#import <BSYLib/NSString+MJExtension.h>
+#import <BSYLib/NSObject+BSYMJCoding.h>
+#import <BSYLib/NSObject+BSYMJProperty.h>
+#import <BSYLib/NSObject+BSYMJClass.h>
+#import <BSYLib/NSObject+BSYMJKeyValue.h>
+#import <BSYLib/NSString+BSYMJExtension.h>
 #import <BSYLib/MJExtensionConst.h>
 #import <BSYLib/BSYMJFoundation.h>

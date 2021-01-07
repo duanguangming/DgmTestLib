@@ -1,5 +1,5 @@
 //
-//  NSObject+MJClass.h
+//  NSObject+BSYMJClass.h
 //  MJExtensionExample
 //
 //  Created by MJ Lee on 15/8/11.
@@ -26,7 +26,7 @@ typedef NSArray * (^MJIgnoredCodingPropertyNames)(void);
 /**
  * 类相关的扩展
  */
-@interface NSObject (MJClass)
+@interface NSObject (BSYMJClass)
 /**
  *  遍历所有的类
  */

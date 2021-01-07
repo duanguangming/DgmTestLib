@@ -18,8 +18,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong)NSString *message; //文本消息
 @property (nonatomic, assign)uint64_t timestamp; //时间戳
 
-@property (nonatomic, assign)CGFloat triggerTime; //触发时间 单位:毫秒
-@property (nonatomic, assign)CGFloat lastPlayedTime; //已播放时长, 单位:毫秒
+@property (nonatomic, assign)NSTimeInterval triggerTime; //触发时间 单位:毫秒
+@property (nonatomic, assign)NSTimeInterval lastPlayedTime; //已播放时长, 单位:毫秒
 
 @end
 

@@ -1,5 +1,5 @@
 //
-//  NSObject+MJCoding.h
+//  NSObject+BSYMJCoding.h
 //  MJExtension
 //
 //  Created by mj on 14-1-15.
@@ -23,7 +23,7 @@
 + (NSArray *)mj_ignoredCodingPropertyNames;
 @end
 
-@interface NSObject (MJCoding) <MJCoding>
+@interface NSObject (BSYMJCoding) <MJCoding>
 /**
  *  解码（从文件中解析对象）
  */

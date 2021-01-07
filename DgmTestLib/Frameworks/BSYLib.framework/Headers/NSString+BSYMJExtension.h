@@ -1,5 +1,5 @@
 //
-//  NSString+MJExtension.h
+//  NSString+BSYMJExtension.h
 //  MJExtensionExample
 //
 //  Created by MJ Lee on 15/6/7.
@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "MJExtensionConst.h"
 
-@interface NSString (MJExtension)
+@interface NSString (BSYMJExtension)
 /**
  *  驼峰转下划线（loveYou -> love_you）
  */

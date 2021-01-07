@@ -1,5 +1,5 @@
 //
-//  NSObject+MJProperty.h
+//  NSObject+BSYMJProperty.h
 //  MJExtensionExample
 //
 //  Created by MJ Lee on 15/4/17.
@@ -29,7 +29,7 @@ typedef id (^MJNewValueFromOldValue)(id object, id oldValue, BSYMJProperty *prop
 /**
  * 成员属性相关的扩展
  */
-@interface NSObject (MJProperty)
+@interface NSObject (BSYMJProperty)
 #pragma mark - 遍历
 /**
  *  遍历所有的成员

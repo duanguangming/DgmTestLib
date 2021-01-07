@@ -1,5 +1,5 @@
 //
-//  NSObject+MJKeyValue.h
+//  NSObject+BSYMJKeyValue.h
 //  MJExtension
 //
 //  Created by mj on 13-8-24.
@@ -75,7 +75,7 @@
 
 @end
 
-@interface NSObject (MJKeyValue) <MJKeyValue>
+@interface NSObject (BSYMJKeyValue) <MJKeyValue>
 #pragma mark - 类方法
 /**
  * 字典转模型过程中遇到的错误
