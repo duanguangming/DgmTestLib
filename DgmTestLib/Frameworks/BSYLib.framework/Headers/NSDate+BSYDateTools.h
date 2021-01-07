@@ -22,7 +22,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface NSDate (DateTools)
+@interface NSDate (BSYDateTools)
 
 #pragma mark - Time Ago
 + (NSString*)timeAgoSinceDate:(NSDate*)date;

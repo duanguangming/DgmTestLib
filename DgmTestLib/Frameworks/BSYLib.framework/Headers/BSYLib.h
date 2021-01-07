@@ -36,7 +36,7 @@ FOUNDATION_EXPORT const unsigned char BSYLibVersionString[];
 
 #pragma mark - Category -
 
-#import <BSYLib/NSDate+DateTools.h>
+#import <BSYLib/NSDate+BSYDateTools.h>
 #import <BSYLib/NSObject+Utility.h>
 #import <BSYLib/NSString+format.h>
 #import <BSYLib/NSNull(Num).h>
