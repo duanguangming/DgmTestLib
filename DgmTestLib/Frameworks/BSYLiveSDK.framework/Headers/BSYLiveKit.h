@@ -235,6 +235,12 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (void)onRecvLiveRoomAllMuteStatus:(BOOL)isAllMute;
 
+/**
+ *   @brief  直播间介绍
+ */
+
+- (void)onRecvLiveIntroduceUrl:(NSString *)Url;
+
 ///———————————————————————————————————————————————————————
 //
 //                               直播状态相关回调

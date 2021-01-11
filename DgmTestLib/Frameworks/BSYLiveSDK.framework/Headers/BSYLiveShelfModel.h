@@ -15,6 +15,13 @@ typedef NS_ENUM(NSUInteger, BSYLiveShelfEntranceType) {
     
 };
 
+typedef NS_ENUM(NSUInteger, BSYLiveShelfShowWay) {
+    BSYLiveShelfShowWay_None = 0,
+    BSYLiveShelfShowWay_Pop = 1,
+    BSYLiveShelfShowWay_Page = 2,
+};
+
+
 NS_ASSUME_NONNULL_BEGIN
 
 @interface BSYLiveShelfModel : NSObject
@@ -23,6 +30,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong, readonly)NSString *shelfId; //货架id
 @property (nonatomic, strong, readonly)NSString *title;   //货架名
 @property (nonatomic, strong, readonly)NSString *actionUrl; //货架链接地址
+@property (nonatomic, assign, readonly)BSYLiveShelfShowWay showWay;
 @property (nonatomic, assign, readonly)BSYLiveShelfEntranceType entranceStyle; //文字/图片
 @property (nonatomic, strong, readonly)NSString *entranceContent;  //文字内容/或图片链接
 

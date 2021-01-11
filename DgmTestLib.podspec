@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DgmTestLib'
-  s.version          = '1.0.10'
+  s.version          = '1.0.11'
   s.summary          = 'A test pods lib of DgmTestLib.'
 
 # This description is used to generate tags and improve search results.

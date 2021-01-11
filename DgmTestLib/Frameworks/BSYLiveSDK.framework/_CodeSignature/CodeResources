@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/BSYLiveKit.h</key>
 		<data>
-		n/+7YqAM0wEqHIqNMRttkVK6mUM=
+		8aAGVrv2IeC5gL/DHMrAauRtuZk=
 		</data>
 		<key>Headers/BSYLiveKitDefine.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/BSYLiveShelfModel.h</key>
 		<data>
-		GKMSgrbQ0cqFR6j6C+Y7bEl2t/Y=
+		c60Q3cF1+3KT0/4l6QALCodtZsc=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -154,11 +154,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n/+7YqAM0wEqHIqNMRttkVK6mUM=
+			8aAGVrv2IeC5gL/DHMrAauRtuZk=
 			</data>
 			<key>hash2</key>
 			<data>
-			VmFjibrdmhFwk5STZVgiR2WavNrPASVp+RTAXP6CL+4=
+			ZPKknnDBNwR3Zd5Kw6Rq3VLLLh6jt57qkn+V7ftZJ0o=
 			</data>
 		</dict>
 		<key>Headers/BSYLiveKitDefine.h</key>
@@ -231,11 +231,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GKMSgrbQ0cqFR6j6C+Y7bEl2t/Y=
+			c60Q3cF1+3KT0/4l6QALCodtZsc=
 			</data>
 			<key>hash2</key>
 			<data>
-			ayNSODGIY/H9fPaqdaGGtbznxONcI/BAwK8O1LrtCYU=
+			rjQGPWKLSJguCUIv6M8VZF93DnZeBoEHSXCiOSYzGSg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
