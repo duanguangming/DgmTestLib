@@ -5,7 +5,7 @@
 //  Created by Duane on 2020/11/5.
 //
 
-#import <BSYSDK/BSYSDK.h>
+#import <BSYSDK/BSYBaseModel.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
