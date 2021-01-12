@@ -66,11 +66,11 @@
 		</data>
 		<key>Whiteboard.bundle/Info.plist</key>
 		<data>
-		WZ/v8peERvPA964iLdwazNRPn+Q=
+		Y5CwgxpXqew7nB0tv4Tu9wPwdiA=
 		</data>
 		<key>Whiteboard.bundle/index.html</key>
 		<data>
-		ILoEU3ROcrLZxSML04nLA4GW9Q8=
+		jL7+vR5M89WopXVFX9TRA+glI8c=
 		</data>
 		<key>Whiteboard.bundle/main.1413e9a0.css</key>
 		<data>
@@ -87,6 +87,10 @@
 		<key>Whiteboard.bundle/vendor.85a6e582.js</key>
 		<data>
 		DazT4G8gem3S+MQGIKTahLM3gNE=
+		</data>
+		<key>Whiteboard.bundle/web-sdk.08b4af77.js</key>
+		<data>
+		Qt5p+N174cP8vVznXTG2RpFrUrc=
 		</data>
 		<key>Whiteboard.bundle/web-sdk.80526f86.js</key>
 		<data>
@@ -253,22 +257,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WZ/v8peERvPA964iLdwazNRPn+Q=
+			Y5CwgxpXqew7nB0tv4Tu9wPwdiA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pimmfzw7ZVA5IjvWhmxwYHqwsgaZo1pWGiZbB7uDgo4=
+			LubXOFjw5wiOlTIiTT22gbUyZwXVQWGIA/1mH20UXVw=
 			</data>
 		</dict>
 		<key>Whiteboard.bundle/index.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ILoEU3ROcrLZxSML04nLA4GW9Q8=
+			jL7+vR5M89WopXVFX9TRA+glI8c=
 			</data>
 			<key>hash2</key>
 			<data>
-			l1g8K/eUbhqAxDpNrzNUQt/EoUdTxpETYpro0+dpG8Q=
+			x7uxEp1LEaB71bakYq4EPnKW6JkwbNuLVogUGROxs8E=
 			</data>
 		</dict>
 		<key>Whiteboard.bundle/main.1413e9a0.css</key>
@@ -313,6 +317,17 @@
 			<key>hash2</key>
 			<data>
 			WLKmb8Bc4fbZUhgr1+cdoCOn3SQfDzHmWi4p8ZghsRo=
+			</data>
+		</dict>
+		<key>Whiteboard.bundle/web-sdk.08b4af77.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Qt5p+N174cP8vVznXTG2RpFrUrc=
+			</data>
+			<key>hash2</key>
+			<data>
+			T7/41inZftwwYKqPSZ4PojOHObISq229e/hevd+C/QA=
 			</data>
 		</dict>
 		<key>Whiteboard.bundle/web-sdk.80526f86.js</key>
