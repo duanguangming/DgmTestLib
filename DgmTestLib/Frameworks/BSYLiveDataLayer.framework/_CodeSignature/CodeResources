@@ -50,7 +50,7 @@
 		</data>
 		<key>Headers/BSYLiveInfoModel.h</key>
 		<data>
-		Q6lnyAD95aIzMKG2t6Jm+xz7hGk=
+		PthjosSqH9gcjEA1l5UDugV1Wcc=
 		</data>
 		<key>Headers/BSYLiveInfoRequest.h</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Headers/BSYLiveProtoGroupCommonControlModel.h</key>
 		<data>
-		vYFHQQsWuaVTqZMGJ3uKLFvtalQ=
+		cbzY1u2oeQPnzGQ5aefAzSZN1G0=
 		</data>
 		<key>Headers/BSYLiveProtoGroupEventNotifyModel.h</key>
 		<data>
@@ -316,11 +316,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q6lnyAD95aIzMKG2t6Jm+xz7hGk=
+			PthjosSqH9gcjEA1l5UDugV1Wcc=
 			</data>
 			<key>hash2</key>
 			<data>
-			wYZAoB6s4a30VIg0B7qMx6EDxTZMRBPxdLFpkma+hqQ=
+			sgdwJSgEiUndB7amoBpI0ttXDsHVAHg5cJoUFgaJHoA=
 			</data>
 		</dict>
 		<key>Headers/BSYLiveInfoRequest.h</key>
@@ -393,11 +393,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vYFHQQsWuaVTqZMGJ3uKLFvtalQ=
+			cbzY1u2oeQPnzGQ5aefAzSZN1G0=
 			</data>
 			<key>hash2</key>
 			<data>
-			dYxVkCVMMP9lNF4S5RsfMcAK91A8WcqCBMAK1ZpbTz4=
+			DEtCwTWW+wKxgrzpjg3JOc2FN/tzyCVcU5JXGmsS/Ak=
 			</data>
 		</dict>
 		<key>Headers/BSYLiveProtoGroupEventNotifyModel.h</key>

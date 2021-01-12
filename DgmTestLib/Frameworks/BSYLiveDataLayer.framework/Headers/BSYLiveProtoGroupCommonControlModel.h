@@ -16,6 +16,7 @@ typedef NS_ENUM(NSUInteger, BSYLiveGroupCommonControlType)
     BSYLiveGroupCommonControlType_CameraStreamStatus=1001, //机位流状态（推流/断流）
     BSYLiveGroupCommonControlType_SwitchMasterCamera=1002, //主机位切换通知
     BSYLiveGroupCommonControlType_ShowCourseWare=1003, //课件直播开关
+    BSYLiveGroupCommonControlType_RtcLiveStatus=1004, //RTC直播状态（推流/断流）
     
 };
 

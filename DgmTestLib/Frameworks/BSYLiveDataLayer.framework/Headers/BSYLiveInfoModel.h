@@ -45,7 +45,7 @@ typedef NS_ENUM(NSUInteger, BSYLiveStatus) {
 @property (nonatomic, assign)BOOL isConfigGoods;//手机直播货架是否显示（审核使用） yes-显示
 
 @property (nonatomic, assign)BOOL showCourseWareTag;//是否为课件模式 YES-课件模式  NO-非课件模式
-
+@property (nonatomic, assign)BSYLiveStatus rtcStatus;//教室状态
 @property (nonatomic, strong)BSYRtcLiveInfoModel *rtcInfo; //rtc直播信息
 
 
