@@ -127,6 +127,17 @@ typedef NS_ENUM(NSInteger, BSYRtcConnectionState) {
     BSYRtcConnectionStateFailed = 5,
 };
 
+/**
+ * 远端用户视频推流状态
+ */
+typedef NS_ENUM(NSUInteger, BSYRtcVideoRemoteState) {
+    BSYRtcVideoRemoteStateStopped = 0, // 推流停止
+    BSYRtcVideoRemoteStateStarting = 1, // 开始推流
+    BSYRtcVideoRemoteStateDecoding = 2, // 推流中
+    BSYRtcVideoRemoteStateFrozen = 3, // 推流中断
+    BSYRtcVideoRemoteStateFailed = 4, // 推流失败
+};
+
 @interface BSYRtcConfig : NSObject
 
 @property (nonatomic, copy, nullable) NSString *appId;
@@ -175,5 +186,15 @@ typedef NS_ENUM(NSInteger, BSYRtcConnectionState) {
 
 @end
 
+@interface BSYRtcVideoInfo : NSObject <NSCopying>
+
+/// 视频的 userId, nil 为自己
+@property (nonatomic, strong, nullable) NSString *userId;
+/// 视频流分辨率宽度
+@property (assign, nonatomic) NSUInteger width;
+/// 视频流分辨率高度
+@property (assign, nonatomic) NSUInteger height;
+
+@end
 
 #endif /* BSYRtcDef_h */

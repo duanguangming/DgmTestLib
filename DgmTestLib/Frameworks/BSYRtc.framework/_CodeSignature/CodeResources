@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/BSYRtcDef.h</key>
 		<data>
-		nsjcmvPlLF2euIxeltWDLTIxx/s=
+		0uJ9/UdAUzNtnmhh446k2jlQMRc=
 		</data>
 		<key>Headers/BSYRtcRoomManager.h</key>
 		<data>
-		4AYC6xl92azKOVofFWTljjRLZN4=
+		wY00ImMgM46fUF3WdTdmcM5i+S8=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -42,22 +42,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nsjcmvPlLF2euIxeltWDLTIxx/s=
+			0uJ9/UdAUzNtnmhh446k2jlQMRc=
 			</data>
 			<key>hash2</key>
 			<data>
-			R++Ma9KOCuH+AYHtNh1IPM3rrbwQgInfob2CN50W/n4=
+			MoEAzFgUPp7rbBYp4G8F6bo4eIpZx3mNlsup0I6qQjU=
 			</data>
 		</dict>
 		<key>Headers/BSYRtcRoomManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4AYC6xl92azKOVofFWTljjRLZN4=
+			wY00ImMgM46fUF3WdTdmcM5i+S8=
 			</data>
 			<key>hash2</key>
 			<data>
-			DqfDQJXpnYEo01ILmV5VodqK7Jo3wurGzdwMk3u9JI0=
+			Nw02uamrzm4wNf+Q8dvOoS4AcaZhZx1lrs2+w5T5diU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

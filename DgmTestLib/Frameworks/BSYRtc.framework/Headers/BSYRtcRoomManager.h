@@ -26,11 +26,20 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface BSYRtcRoomUser : NSObject
 
+// 用户的uid
 @property (nonatomic, strong) NSString *uid;
 
-@property (nonatomic, assign) BOOL videoMuted;
+// 用户画面的分辨率
+@property (nonatomic, assign) CGSize videoSize;
 
-@property (nonatomic, assign) BOOL audioMuted;
+// 用户视频推流状态
+@property (nonatomic, assign) BSYRtcVideoRemoteState videoState;
+
+// 是否显示用户画面
+//@property (nonatomic, assign) BOOL videoMuted;
+
+// 是否播放用户声音
+//@property (nonatomic, assign) BOOL audioMuted;
 
 @property (strong, nonatomic, nullable) BSYRtcVideoCanvas *canvas;
 
