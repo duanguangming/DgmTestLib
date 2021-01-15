@@ -130,6 +130,24 @@ typedef NS_ENUM(NSUInteger, BSYPlayerViewLoadStyle) {
 
 /*!
  * @method
+ * @abstract 获取当前已播放时间位置
+ * @discussion 获取当前已播放时间位置
+ * @result 获取当前已播放时间位置
+ */
+- (NSTimeInterval)currentPlaybackTime;
+
+/*!
+ * @method
+ * @abstract 获取当前播放视频总时长
+ * @discussion 获取当前播放视频总时长
+ * @result 获取当前播放视频总时长
+ */
+
+- (NSTimeInterval)duration;
+
+
+/*!
+ * @method
  * @abstract 获取可播放的持续时间
  * @discussion 获取可播放的持续时间
  * @result 可播放的持续时间

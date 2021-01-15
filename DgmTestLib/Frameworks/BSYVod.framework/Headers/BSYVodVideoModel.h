@@ -27,6 +27,8 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @property(nonatomic, strong, readonly)NSString *resolution;
 
+
+
 /**
  *  @brief 播放地址
  */
