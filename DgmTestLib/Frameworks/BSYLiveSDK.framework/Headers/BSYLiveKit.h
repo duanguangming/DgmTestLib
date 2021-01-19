@@ -55,7 +55,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (NSString *)getLiveName;
 
 /**
- *   @brief   判读直播间是否为RTC
+ *   @brief   判段直播间是否为RTC或者为Live
  *   说明：直播间登录成功后有效
  */
 - (BOOL)isRtcLive;
@@ -164,6 +164,16 @@ NS_ASSUME_NONNULL_BEGIN
 - (int)getLastMessageHistorySucc:(BSYLiveKitIMGetMsgSuccess)succ fail:(BSYLiveKitFail __nullable)fail;
 
 
+///———————————————————————————————————————————————————————
+//
+//                                  评测相关接口
+//
+///———————————————————————————————————————————————————————
+
+
+
+
+
 @end
 
 
@@ -181,6 +191,7 @@ NS_ASSUME_NONNULL_BEGIN
 //
 ////———————————————————————————————————————————————————————
 
+@optional;
 /**
  *   @brief   登录成功
  */
