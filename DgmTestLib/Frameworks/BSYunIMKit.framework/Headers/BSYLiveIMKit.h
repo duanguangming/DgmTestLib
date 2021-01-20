@@ -44,6 +44,8 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)recvLiveRoomAllMuteStatus:(BOOL)isAllMute;
 //直播状态
 - (void)recvLiveStatus:(BSYLiveStatus)liveStatus;
+//直播状态
+- (void)recvLiveRtcStatus:(BSYLiveStatus)liveStatus;
 //在线人数
 - (void)recvLiveOnlineCount:(NSUInteger)onlineCount;
 //切换拉流地址
