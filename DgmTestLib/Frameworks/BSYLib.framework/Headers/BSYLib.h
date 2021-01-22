@@ -39,6 +39,7 @@ FOUNDATION_EXPORT const unsigned char BSYLibVersionString[];
 #import <BSYLib/NSDate+BSYDateTools.h>
 #import <BSYLib/NSObject+Utility.h>
 #import <BSYLib/NSString+format.h>
+#import <BSYLib/NSString+pinyin.h>
 #import <BSYLib/NSNull(Num).h>
 #import <BSYLib/NSDictionary+Json.h>
 #import <BSYLib/NSDictionary+Value.h>

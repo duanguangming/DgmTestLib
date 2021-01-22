@@ -15,7 +15,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong) NSString *msg; //状态描述
 @property (nonatomic, strong) id data;
 
-@property (nonatomic, strong) id result;
+@property (nonatomic, strong, nullable) id result;
 
 @end
 

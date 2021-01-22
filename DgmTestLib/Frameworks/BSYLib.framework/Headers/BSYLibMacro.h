@@ -22,7 +22,6 @@
 //正则表达式
 #define sEmailRegexString           (@"\\b([a-zA-Z0-9%_.+\\-]+)@([a-zA-Z0-9.\\-]+?[\\.[a-zA-Z]{2,6}]+)\\b")
 #define sPhoneNumberRegexString     (@"^1\\d{10}$")
-#define sPrePhoneNumberRegexString  (@"^99965432\\d{3}$")
 #define sVerifyCodeRegexString4     (@"[0-9]{4}")
 #define sVerifyCodeRegexString6     (@"[0-9]{6}")
 
